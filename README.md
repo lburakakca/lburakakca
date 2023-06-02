@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lburakakca/lburakakca/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
