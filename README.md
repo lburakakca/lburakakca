@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Burak, and I'm a computer engineering student.</h2>
+<h2 align="center">Hi 👋! My name is Burak, and I'm a computer engineering.</h2>
 
 ###
 
@@ -34,7 +34,6 @@
 
 ###
 
-<p align="left">Hello! I'm a third-year computer engineering student at AGU, passionate about honing my skills and knowledge in the field of technology.<br><br>💻 Education: I'm currently pursuing my bachelor's degree in Computer Engineering at AGU, where I'm gaining a strong foundation in various areas such as programming, algorithms, and software development.<br><br>📚 Continuous Learning: I believe in the power of lifelong learning and strive to improve myself every day. I'm always on the lookout for new technologies, programming languages, and industry trends to stay ahead of the curve.<br><br>🚀 Passion for Development: Coding is not just a hobby, but a genuine passion for me. I love diving into complex problems, finding innovative solutions, and creating efficient and scalable software. It's incredibly satisfying to see my projects come to life and make a positive impact.</p>
 
 ###
 
